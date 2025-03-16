@@ -3,7 +3,7 @@ This HR Analytics project uses SQL queries to analyze employee data, providing i
 
 # 🏆 Key Insights Extracted Using SQL:
 ✅ Average Attrition rate for all Departments
-![image](https://github.com/user-attachments/assets/063fd0e8-5c28-4014-b5f6-ad9e14968a85)
+# ![image](https://github.com/user-attachments/assets/063fd0e8-5c28-4014-b5f6-ad9e14968a85)
 
 ✅ Average Hourly rate of Male Research Scientist 
 ![image](https://github.com/user-attachments/assets/a3d44ee4-d416-483b-b07e-7cb01e37acdd)
